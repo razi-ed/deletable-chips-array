@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "prop-types": "latest",
+    "material-ui-icons": "latest",
+    "material-ui": "next"
+  },
+  "keywords": [],
+  "name": "deletable-chips-array",
+  "description": "PureComponent"
+}
